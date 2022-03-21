@@ -10,3 +10,4 @@ For now I know:
 2. CSS
 3. Repl.it
 4. CHALK
+5. Currently learning Javascript
